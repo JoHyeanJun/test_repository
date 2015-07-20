@@ -34,7 +34,7 @@ public class HomeController {
 		model.addAttribute("serverTime", formattedDate );
 		
 		System.out.print("ee");
-		
+		System.out.print("ee");
 		return "home";
 		
 	}
