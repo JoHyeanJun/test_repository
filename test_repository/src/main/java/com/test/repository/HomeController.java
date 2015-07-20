@@ -35,7 +35,7 @@ public class HomeController {
 		
 		
 		System.out.println("test");
-		
+		System.out.println("dd");
 		
 		
 		return "home";
